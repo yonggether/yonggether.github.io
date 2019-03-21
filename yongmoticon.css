@@ -1,58 +1,576 @@
+span[data-param1="JKanStyle"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/JKanStyle.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+img[alt="JKanStyle"], #article-content-wrapper #article-content img[alt="JKanStyle"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/JKanStyle.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+span[data-param1="OptimizePrime"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/OptimizePrime.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+img[alt="OptimizePrime"], #article-content-wrapper #article-content img[alt="OptimizePrime"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/OptimizePrime.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+span[data-param1="SwiftRage"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/SwiftRage.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+img[alt="SwiftRage"], #article-content-wrapper #article-content img[alt="SwiftRage"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/SwiftRage.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+span[data-param1="StoneLightning"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/StoneLightning.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="StoneLightning"], #article-content-wrapper #article-content img[alt="StoneLightning"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/StoneLightning.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="TheRinger"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/TheRinger.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="TheRinger"], #article-content-wrapper #article-content img[alt="TheRinger"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/TheRinger.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="RedCoat"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/RedCoat.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="RedCoat"], #article-content-wrapper #article-content img[alt="RedCoat"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/RedCoat.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+span[data-param1="PJSalt"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/PJSalt.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="PJSalt"], #article-content-wrapper #article-content img[alt="PJSalt"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/PJSalt.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="DansGame"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/DansGame.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="DansGame"], #article-content-wrapper #article-content img[alt="DansGame"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/DansGame.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="GingerPower"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/GingerPower.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="GingerPower"], #article-content-wrapper #article-content img[alt="GingerPower"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/GingerPower.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="KevinTurtle"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/KevinTurtle.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="KevinTurtle"], #article-content-wrapper #article-content img[alt="KevinTurtle"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/KevinTurtle.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="JonCarnage"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/JonCarnage.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="JonCarnage"], #article-content-wrapper #article-content img[alt="JonCarnage"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/JonCarnage.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="OneHand"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/OneHand.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="OneHand"], #article-content-wrapper #article-content img[alt="OneHand"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/OneHand.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+
+span[data-param1="FrankerZ"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/FrankerZ.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="FrankerZ"], #article-content-wrapper #article-content img[alt="FrankerZ"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/FrankerZ.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="PunchTrees"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/PunchTrees.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="PunchTrees"], #article-content-wrapper #article-content img[alt="PunchTrees"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/PunchTrees.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="HassanChop"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/HassanChop.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="HassanChop"], #article-content-wrapper #article-content img[alt="HassanChop"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/HassanChop.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="PMSTwin"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/PMSTwin.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="PMSTwin"], #article-content-wrapper #article-content img[alt="PMSTwin"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/PMSTwin.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="ArsonNoSexy"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/ArsonNoSexy.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="ArsonNoSexy"], #article-content-wrapper #article-content img[alt="ArsonNoSexy"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/ArsonNoSexy.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="SMOrc"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/SMOrc.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="SMOrc"], #article-content-wrapper #article-content img[alt="SMOrc"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/SMOrc.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+span[data-param1="HotPokket"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/HotPokket.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="HotPokket"], #article-content-wrapper #article-content img[alt="HotPokket"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/HotPokket.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="DAESuppy"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/DAESuppy.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="DAESuppy"], #article-content-wrapper #article-content img[alt="DAESuppy"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/DAESuppy.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="WholeWheat"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/WholeWheat.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="WholeWheat"], #article-content-wrapper #article-content img[alt="WholeWheat"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/WholeWheat.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="ThunBeast"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/ThunBeast.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+     padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="ThunBeast"], #article-content-wrapper #article-content img[alt="ThunBeast"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/ThunBeast.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="PogChamp"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/PogChamp.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="PogChamp"], #article-content-wrapper #article-content img[alt="PogChamp"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/PogChamp.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="ShazBotstix"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/ShazBotstix.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="ShazBotstix"], #article-content-wrapper #article-content img[alt="ShazBotstix"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/ShazBotstix.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="AsianGlow"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/AsianGlow.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="AsianGlow"], #article-content-wrapper #article-content img[alt="AsianGlow"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/AsianGlow.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="FUNgineer"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/FUNgineer.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="FUNgineer"], #article-content-wrapper #article-content img[alt="FUNgineer"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/FUNgineer.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="4Head"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/4Head.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="4Head"], #article-content-wrapper #article-content img[alt="4Head"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/4Head.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+span[data-param1="RalpherZ"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/RalpherZ.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="RalpherZ"], #article-content-wrapper #article-content img[alt="RalpherZ"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/RalpherZ.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="Kippa"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/Kippa.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="Kippa"], #article-content-wrapper #article-content img[alt="Kippa"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/Kippa.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="Keepo"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/Keepo.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="Keepo"], #article-content-wrapper #article-content img[alt="Keepo"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/Keepo.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="BigBrother"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/BigBrother.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="BigBrother"], #article-content-wrapper #article-content img[alt="BigBrother"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/BigBrother.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+
+span[data-param1="SoBayed"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/SoBayed.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="SoBayed"], #article-content-wrapper #article-content img[alt="SoBayed"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/SoBayed.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
+span[data-param1="PeoplesChamp"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/PeoplesChamp.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="PeoplesChamp"], #article-content-wrapper #article-content img[alt="PeoplesChamp"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/PeoplesChamp.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+span[data-param1="TF2John"] img {
+    background: url(https://yonggether.github.io/images/yongmoticon/TF2John.gif)no-repeat;
+    width: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    background-size: 25px 25px;
+}
+
+img[alt="TF2John"], #article-content-wrapper #article-content img[alt="TF2John"] {
+    background: url(https://yonggether.github.io/images/yongmoticon/TF2John.gif);
+    width: 50px;
+    height: 50px !important;
+    padding-left: 50px;
+    background-size: 50px 50px;
+}
+
 span[data-param1="GrammarKing"] img {
-    background: url(https://66.media.tumblr.com/b3ae457cc1f809487f60e04b08bb3d1a/tumblr_plfgzpa8VM1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/GrammarKing.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="GrammarKing"], #article-content-wrapper #article-content img[alt="GrammarKing"] {
-    background: url(https://66.media.tumblr.com/b3ae457cc1f809487f60e04b08bb3d1a/tumblr_plfgzpa8VM1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/GrammarKing.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
     background-size: 50px 50px;
 }
+
 span[data-param1="PanicVis"] img {
-    background: url(https://66.media.tumblr.com/3aa7cee49c6bcd123965b88d1f12b513/tumblr_plfgzkNzgT1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/PanicVis.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="PanicVis"], #article-content-wrapper #article-content img[alt="PanicVis"] {
-    background: url(https://66.media.tumblr.com/3aa7cee49c6bcd123965b88d1f12b513/tumblr_plfgzkNzgT1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/PanicVis.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
     background-size: 50px 50px;
 }
+
 span[data-param1="ANELE"] img {
-    background: url(https://66.media.tumblr.com/ff3098678b6b28923e49b2f00ad166b7/tumblr_plfgzeCF5D1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/ANELE.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="ANELE"], #article-content-wrapper #article-content img[alt="ANELE"] {
-    background: url(https://66.media.tumblr.com/ff3098678b6b28923e49b2f00ad166b7/tumblr_plfgzeCF5D1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/ANELE.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
     background-size: 50px 50px;
 }
+
 span[data-param1="BrokeBack"] img {
-    background: url(https://66.media.tumblr.com/2bdc38fddaf2b9cd1faf670c656c374a/tumblr_plfgz0kqpj1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/BrokeBack.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="BrokeBack"], #article-content-wrapper #article-content img[alt="BrokeBack"] {
-    background: url(https://66.media.tumblr.com/2bdc38fddaf2b9cd1faf670c656c374a/tumblr_plfgz0kqpj1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/BrokeBack.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
@@ -60,60 +578,59 @@ img[alt="BrokeBack"], #article-content-wrapper #article-content img[alt="BrokeBa
 }
        
 span[data-param1="PipeHype"] img {
-    background: url(https://66.media.tumblr.com/661e84bccf740b0e9fa5fa45d7f41106/tumblr_plfgyrV2NE1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/PipeHype.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="PipeHype"], #article-content-wrapper #article-content img[alt="PipeHype"] {
-    background: url(https://66.media.tumblr.com/661e84bccf740b0e9fa5fa45d7f41106/tumblr_plfgyrV2NE1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/PipeHype.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
     background-size: 50px 50px;
 }
+
 span[data-param1="YouWHY"] img {
-    background: url(https://66.media.tumblr.com/5ff2d1248358e8f11723caeb2707fcca/tumblr_plfgycv4qN1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/YouWHY.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="YouWHY"], #article-content-wrapper #article-content img[alt="YouWHY"] {
-    background: url(https://66.media.tumblr.com/5ff2d1248358e8f11723caeb2707fcca/tumblr_plfgycv4qN1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/YouWHY.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
     background-size: 50px 50px;
 }
+
 span[data-param1="RitzMitz"] img {
-    background: url(https://66.media.tumblr.com/d9a7a3ab46fbab60382f874fbf941a30/tumblr_plfgy1mI3f1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/RitzMitz.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="RitzMitz"], #article-content-wrapper #article-content img[alt="RitzMitz"] {
-    background: url(https://66.media.tumblr.com/d9a7a3ab46fbab60382f874fbf941a30/tumblr_plfgy1mI3f1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/RitzMitz.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
     background-size: 50px 50px;
 }
+
 span[data-param1="EleGiggle"] img {
-    background: url(https://66.media.tumblr.com/1e6d5ef949690c36a64770a2f6862660/tumblr_plgc3dZv031xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/EleGiggle.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="EleGiggle"], #article-content-wrapper #article-content img[alt="EleGiggle"] {
-    background: url(https://66.media.tumblr.com/1e6d5ef949690c36a64770a2f6862660/tumblr_plgc3dZv031xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/EleGiggle.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
@@ -121,15 +638,14 @@ img[alt="EleGiggle"], #article-content-wrapper #article-content img[alt="EleGigg
 }
 
 span[data-param1="TheThing"] img {
-    background: url(https://66.media.tumblr.com/68a1766c2cfa9880348c64520d96fbb5/tumblr_plgc31cqYh1xyy3p1o1_75sq.gif)no-repeat;
+    background: url(https://yonggether.github.io/images/yongmoticon/TheThing.gif)no-repeat;
     width: 25px;
     padding-left: 25px;
-	padding-top: 25px;
+    padding-top: 25px;
     background-size: 25px 25px;
 }
-
 img[alt="TheThing"], #article-content-wrapper #article-content img[alt="TheThing"] {
-    background: url(https://66.media.tumblr.com/68a1766c2cfa9880348c64520d96fbb5/tumblr_plgc31cqYh1xyy3p1o1_75sq.gif);
+    background: url(https://yonggether.github.io/images/yongmoticon/TheThing.gif);
     width: 50px;
     height: 50px !important;
     padding-left: 50px;
