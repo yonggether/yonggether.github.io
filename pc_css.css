@@ -38,7 +38,7 @@ border-top: 2px solid #E6F6DA;
 header .row>div:nth-child(1)>a {
     margin-bottom: 2px;
     display: block;
-    background: url(https://upload.tgd.kr/20181029/f8665ae79ccf5b6b260454db16026fcc.png) no-repeat;
+    background: url(https://yonggether.github.io/images/banner/yong_bronze.png) no-repeat;
     background-size: 240px auto;
     background-repeat: no-repeat;
     width: 240px;
@@ -60,7 +60,7 @@ header .row>div:nth-child(1)>a {
 
 /*로그 이미지 마우스 오버 액션*/
 header .row > div:nth-child(1) > a:hover{
-    background: url(https://upload.tgd.kr/20181029/6c781a67126488e255469ee0618b971a.png) no-repeat;
+    background: url(https://yonggether.github.io/images/banner/yong_underB.png) no-repeat;
     background-size: 240px auto;
     background-repeat: no-repeat;
     width: 240px;
