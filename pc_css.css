@@ -326,7 +326,11 @@ header #header-bar>.row,
 }
 
 header {
-  padding: 0 !important;
+    padding: 0 !important;
+    background-repeat: no-repeat;
+    background-image: url(https://yonggether.github.io/images/banner/pc.png);
+    background-size: 520px auto;
+    background-position: 296px 1px;
 }
 
 /* 헤더 [광고]배경색 */
@@ -598,7 +602,7 @@ header #header-bar .fa {
     position: absolute;
     width: 540px;
     height: 130px;
-    background: url(https://yonggether.github.io/images/banner/pc.png) no-repeat;
+    background: url() no-repeat;
     background-size: 540px auto;
     margin: -192.5px 0 0 -112px;
     text-indent: -9999px;
