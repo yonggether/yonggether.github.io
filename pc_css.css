@@ -331,6 +331,7 @@ header {
     background-image: url(https://yonggether.github.io/images/banner/pc.png);
     background-size: 520px auto;
     background-position: 296px 1px;
+    background-position-x: center;
 }
 
 /* 헤더 [광고]배경색 */
