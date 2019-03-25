@@ -367,6 +367,7 @@ header #header-bar #header-menu-left {
 }
 /*즐겨찾기 프로필 채널 클립 위치 조정*/
 #board-info #board-info-bottom {
+    border-top: 1px solid #2b9cff;
     padding-top: 10px;
 }
 /* 말룡이3 프로필 사진 크기조정 */
