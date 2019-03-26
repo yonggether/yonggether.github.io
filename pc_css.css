@@ -328,7 +328,7 @@ header #header-bar>.row,
 header {
     padding: 0 !important;
     background-repeat: no-repeat;
-    background-image: url(https://yonggether.github.io/images/banner/pc.png);
+    background-image: url();
     background-size: 520px auto;
     background-position: 296px 1px;
     background-position-x: center;
@@ -611,11 +611,11 @@ header #header-bar .fa {
 }
 
 header .row {
-	background-repeat: no-repeat;
+    background-repeat: no-repeat;
     display: block;
     height: 120px;
-	background-image: url(https://upload.tgd.kr/20190301/1ae3476d9d567e6439e366d4ad38b3bf.png);
-	background-size: 523px auto;
+    background-image: url(https://yonggether.github.io/images/banner/pc.png);
+    background-size: 523px auto;
     background-position-x: 290px;
     background-position-y: 0px;
     margin-bottom: -14px;
