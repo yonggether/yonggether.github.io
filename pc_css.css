@@ -673,8 +673,8 @@ header #header-bar {
 
 #board-info h1{visibility:hidden;background-repeat:no-repeat;border-bottom:none;padding-bottom:0}
 #board-info h1 a{display:inline-block;margin-left:-93px;}
-#board-info h1 a:after{visibility:visible;display:inline-block;background-image:url(https://yonggether.github.io/images/banner/name_1.png);background-size:auto 30px;background-repeat:no-repeat;content:"";width:110px;height:30px;vertical-align:top}
-#board-info h1 a:hover:after{background-image:url(https://yonggether.github.io/images/banner/name_2.png)}
+#board-info h1 a:after{visibility:visible;display:inline-block;background-image:url(https://yonggether.github.io/images/banner/name_1.png);background-size:auto 30px;background-repeat:no-repeat;content:"";width:110px;height:30px;vertical-align:top;transition: all 150ms ease-in-out;}
+#board-info h1 a:hover:after{background-image:url(https://yonggether.github.io/images/banner/name_2.png);transition: all 150ms ease-in-out;}
 .badge {visibility: visible;}
 #board-info #viewers-area {visibility: visible;}
 
